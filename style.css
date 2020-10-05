@@ -1,0 +1,39 @@
+List {
+    background-color: #e9f7ef; 
+    text-align: center;
+}
+
+Song {
+    display: block;
+    border: 5px solid #873600;
+    border-radius: 3px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 50%;
+    background-color: #d4e6f1;
+}
+
+
+Artist {
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: #873600;
+}
+
+Title {
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30pt;
+    color: #c0392b;
+}
+
+Genre, Year {
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color:   #b7950b ;
+}

@@ -1,1 +1,64 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<List>
+    <Song>
+        <Artist>The Velvet Underground</Artist>
+        <Title>Femme Fatale</Title>
+        <Genre>Art rock</Genre>
+        <Year>1967</Year>
+    </Song>
+    <Song>
+        <Artist>The Zombies</Artist>
+        <Title>This Will Be Our Year</Title>
+        <Genre>Rock</Genre>
+        <Year>1968</Year>
+    </Song>
+    <Song>
+        <Artist>The Replacements</Artist>
+        <Title>Angrogynous</Title>
+        <Genre>Alternative rock</Genre>
+        <Year>1984</Year>
+    </Song>
+    <Song>
+        <Artist>The Velvet Underground</Artist>
+        <Title>Pale Blue Eyes</Title>
+        <Genre>Art rock</Genre>
+        <Year>1969</Year>
+    </Song>
+    <Song>
+        <Artist>Nico</Artist>
+        <Title>These Days</Title>
+        <Genre>Art rock</Genre>
+        <Year>1967</Year>
+    </Song>
+    <Song>
+        <Artist>Yo La Tengo</Artist>
+        <Title>Autumn Sweater</Title>
+        <Genre>Indie rock</Genre>
+        <Year>1997</Year>
+    </Song>
+    <Song>
+        <Artist>The Kinks</Artist>
+        <Title>Strangers</Title>
+        <Genre>Rock</Genre>
+        <Year>1970</Year>
+    </Song>
+    <Song>
+        <Artist>Talking Heads</Artist>
+        <Title>This Must Be the Place (Naive Melody)</Title>
+        <Genre>Post-punk</Genre>
+        <Year>1983</Year>
+    </Song>
+    <Song>
+        <Artist>The Smiths</Artist>
+        <Title>This Charming Man</Title>
+        <Genre>Indie rock</Genre>
+        <Year>1984</Year>
+    </Song>
+    <Song>
+        <Artist>The Velvet Underground</Artist>
+        <Title>Oh! Sweet Nuthin'</Title>
+        <Genre>Art rock</Genre>
+        <Year>1970</Year>
+    </Song>
+</List>
